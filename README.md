@@ -5,10 +5,19 @@
 <h3 align="center"🔍 About Tech Skill🔍</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp;
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>&nbsp;
-  <img src="https://img.shields.io/badge/aws-333664?style=flat-square&logo=amazon-aws&logoColor=white"/></a>&nbsp;
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white&style=flat"/></a>
+  <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring&logoColor=white&style=flat"/></a>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white&style=flat"/><img src="https://img.shields.io/badge/-JPA-gray?logoColor=white&style=flat"/></a>
+  <br>
+  <img src="https://img.shields.io/badge/JavaScript-f7df1e?style=flat-square&logo=javascript&logoColor=white&style=flat"/></a>
+  <img src="https://img.shields.io/badge/HTML5-e34f26?style=flat-square&logo=html5&logoColor=white&style=flat"/></a>
+  <br>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon%20AWS&logoColor=white&style=flat"/></a>
+  <br>
+  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=Swagger&logoColor=white&style=flat"/></a>
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=Jira%20software&logoColor=white&style=flat"/></a>
 </p>
+<br>
 
 <!--
 **ksy90101/ksy90101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
